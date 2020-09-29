@@ -26,7 +26,7 @@ arr = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
 end
 
 def sorted_matrix
-  arr = [CONVENTIONAL_PRODUCE.sorted, ORGANIC_PRODUCE.sorted]
+  arr = [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
  arr
 end
 
